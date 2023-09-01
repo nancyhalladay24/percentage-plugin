@@ -2,7 +2,7 @@ const setAmount = 2978.0; // The fixed set amount
 const outputElement = document.getElementById('output'); // Get the output element
 
 // Get all elements with the class "price"
-const priceElements = document.querySelectorAll('.Price');
+const priceElements = document.querySelectorAll('.price');
 
 // Loop through each price element and calculate the percentage
 priceElements.forEach((priceElements) => {
