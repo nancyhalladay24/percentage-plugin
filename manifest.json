@@ -15,10 +15,7 @@
         "https://developer.chrome.com/docs/extensions/*",
         "https://developer.chrome.com/docs/webstore/*"
       ]
-    }
-  ],
-
-  "content_scripts": [
+    },
     {
       "js": ["scripts/price.js"],
       "matches": [
